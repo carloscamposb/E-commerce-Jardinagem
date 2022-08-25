@@ -1,16 +1,10 @@
 # Saudação amigos! 
-===
+
  
-Esse projeto intitulado *Verdejá*, trata-se de um E-commerce voltado para a área de jardinagem. O site também oferece dois cursos online e pagos com temas botânicos. O projeto é desenvolvido puramente em *Html e CSS* e busca mesclar *Flexbox e CSS Grid*.
-===
+Projeto intitulado *Verdejá*. Trata-se de um E-commerce voltado para a área de jardinagem. O site também oferece dois cursos com temas botânicos. O projeto é desenvolvido puramente em *Html e CSS* e busca mesclar *Flexbox e CSS Grid*.
 
 
 
-
-
-
-
-===
 ### Figuras (Referência: Pinterest)  
 -  https://pin.it/74m2VdF (Plantas de Sol: Ex.: Estrelícia )
 -  https://pin.it/2IIY9Sq (Plantas de Sombra: Ex.:Samambaia)
